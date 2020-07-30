@@ -1,0 +1,12 @@
+# Project
+.idea/
+*.iml
+
+# Node
+node_modules/
+
+# Build
+build/
+
+# Environment
+.env

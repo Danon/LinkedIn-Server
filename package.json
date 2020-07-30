@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "scripts": {
+    "start": "node www.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "dotenv": "^5.0.1",
+    "ejs": "~2.5.7",
+    "express": "^4.17.1",
+    "serve-favicon": "~2.4.5",
+    "superagent": "^5.3.1"
+  }
+}
